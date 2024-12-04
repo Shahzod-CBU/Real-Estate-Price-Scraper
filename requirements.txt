@@ -1,0 +1,10 @@
+pandas
+beautifulsoup4
+selenium
+requests
+openpyxl
+lxml
+xlsxwriter
+xlwt
+babel
+pebble
